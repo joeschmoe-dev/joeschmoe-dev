@@ -5,13 +5,13 @@
 ![Apinan's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeschmoe-dev&show_icons=true&theme=great-gatsby&border_radius=12&bg_color=135,222223,000000&hide_border=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joeschmoe-dev&hide_border=true)](https://git.io/streak-stats)
 
-## Currently working on
+## Currently working on...
 
--   A major in cyber security 💻
+-   A major in Cybersecurity 💻
 -   My Personal Web Portfolio 👨🏾‍💻
 -   A fullstack app 🌐
--   A hackathon project 🦠
--   Reading about C++ 📖
+-   Miscellaneous programs 🗂️
+-   Learning more C++ 📖
 
 
 
@@ -25,7 +25,7 @@
   </a>
 
   <a href="https://flask.palletsprojects.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+    <img src="https://flask.palletsprojects.com/en/3.0.x/_static/shortcut-icon.png" alt="flask" width="40" height="40"/>
   </a>
 
   <a href="https://nodejs.org" target="_blank">
@@ -40,8 +40,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
   
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  <a href="https://cplusplus.com" target="_blank"> 
+    <img src="https://commons.wikimedia.org/wiki/File:ISO_C%2B%2B_Logo.svg" alt="c" width="40" height="40"/> 
   </a>
 
   <a href="https://www.w3.org/html/" target="_blank">
@@ -64,9 +64,6 @@
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
   </a>
 
-  <a>
-   <img src="https://raw.githubusercontent.com/"></img>
-  </a> 
 </p>
 
 
