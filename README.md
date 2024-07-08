@@ -41,7 +41,7 @@
   </a>
   
   <a href="https://cplusplus.com" target="_blank"> 
-    <img src="https://commons.wikimedia.org/wiki/File:ISO_C%2B%2B_Logo.svg" alt="c" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png" alt="c" width="40" height="40"/> 
   </a>
 
   <a href="https://www.w3.org/html/" target="_blank">
