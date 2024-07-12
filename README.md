@@ -8,7 +8,7 @@
 ## Currently working on...
 
 -   A major in Cybersecurity 💻
--   My Personal Web Portfolio 👨🏾‍💻
+-   My Personal Web Portfolio 👨‍💻
 -   A fullstack app 🌐
 -   Miscellaneous programs 🗂️
 -   Learning more C++ 📖
