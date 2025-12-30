@@ -70,7 +70,7 @@
 
 ### Reach me:
 
-Email: [jphemmerle06[at]gmail.com] <br />
+Email: jphemmerle06[at]gmail.com <br />
 Linkedin: [Joe Hemmerle](https://www.linkedin.com/in/joe-hemmerle-a22527298/) <br />
 Portfolio: [Portfolio](https://joeschmoe-dev.github.io) <br />
 
