@@ -2,7 +2,6 @@
 
 ## I'm a student at ISU & a Full Stack developer
 
-![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeschmoe-dev&show_icons=true&theme=great-gatsby&border_radius=12&bg_color=135,222223,000000&hide_border=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joeschmoe-dev&hide_border=true)](https://git.io/streak-stats)
 
 ## Currently working on...
