@@ -2,7 +2,7 @@
 
 ## I'm a student at ISU & a Full Stack developer
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=joeschmoe-dev)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=joeschmoe-dev&hide_border=true)](https://git.io/streak-stats)
 
 ## Currently working on...
 
@@ -24,7 +24,7 @@
   </a>
 
   <a href="https://flask.palletsprojects.com/" target="_blank"> 
-    <img src="https://flask.palletsprojects.com/en/3.0.x/_static/shortcut-icon.png" alt="flask" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
   </a>
 
   <a href="https://nodejs.org" target="_blank">
@@ -40,7 +40,7 @@
   </a>
   
   <a href="https://cplusplus.com" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png" alt="c" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a>
 
   <a href="https://www.w3.org/html/" target="_blank">
@@ -59,9 +59,6 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
   
-  <a href="https://heroku.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-  </a>
 
 </p>
 
