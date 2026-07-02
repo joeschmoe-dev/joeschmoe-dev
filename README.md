@@ -2,8 +2,7 @@
 
 ## I'm a student at ISU & a Full Stack developer
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=joeschmoe-dev&hide_border=true)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=joeschmoe-dev&hide_border=true)]
 ## Currently working on...
 
 -   A major in Cybersecurity 💻
