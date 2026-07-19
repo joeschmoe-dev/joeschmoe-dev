@@ -67,8 +67,8 @@
 
 Email: jphemmerle06[at]gmail.com <br />
 Linkedin: [Joe Hemmerle](https://www.linkedin.com/in/joe-hemmerle-a22527298/) <br />
-Portfolio: [Portfolio](https://joeschmoe-dev.github.io) <br />
+Portfolio: [Portfolio](https://portfolio.joeschmoe.dev/) <br />
 
 
 
-Programming since Dec 2018 📅
+Programming since 2018 📅
